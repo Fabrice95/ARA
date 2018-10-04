@@ -1,0 +1,36 @@
+voir repertoire projet eclipse tme1
+voir fichier de config.txt
+pour l'execution:
+clic droit sur peersim-xxx.jar.peersim.simulator.class > Run As > Run Configurations
+(verifier si le projet selectionne est correct > sinon cree une nouvelle configuration
+avec le nom du projet correspondant et Main class peersim.Simulator)
+dans onglet Arguments, case Program Arguments:
+mettre le chemin absolu du fichier de configuration
+
+
+
+Ex 2:
+3)
+################################# AFFICHAGE DES VALEURS ###########################
+On node 0 variable = 285  (alive)
+On node 1 variable = 305  (alive)
+On node 2 variable = 265  (alive)
+On node 3 variable = 700  (alive)
+On node 4 variable = 525  (alive)
+
+4)
+################################# AFFICHAGE DES VALEURS ###########################
+On node 0 variable = 345  (alive)
+On node 1 variable = 1  (dead)
+On node 2 variable = 141  (alive)
+On node 3 variable = 249  (alive)
+On node 4 variable = 165  (alive)
+
+5)
+################################# AFFICHAGE DES VALEURS ###########################
+On node 0 variable = 130  (alive)
+On node 1 variable = 1  (dead)
+On node 2 variable = 110  (alive)
+On node 3 variable = 1  (dead)
+On node 4 variable = 205  (alive)
+
